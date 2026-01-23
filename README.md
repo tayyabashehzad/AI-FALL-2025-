@@ -1,9 +1,7 @@
-Call interface: `run.sh` to fulfill train, validate, test, or dehaze.
-
-e.g.
-
-	bash run.sh train 0
-
+Ai Project 
+Group Members: Muhammad Yahya 37236
+               Ayaan Khan 37274
+			   Fahad Ahmed 37258
 ---
 ### Code structure:
 - `train.py` Train on ITS/OTS of RESIDE dataset, including validation.  
